@@ -6,7 +6,7 @@ if [ $d = "y" ]:
 then
    echo "\033[1;93mLoading\033[90m...\033[1;97m"
    sleep 2
-   termux-open "https://youtu.be/edE2zE6k-e8"
+   termux-open "https://youtu.be/pL2sPrxLjPc"
 elif [ $d = "t" ]:
 then
    echo "\033[1;93mNext\033[90m...\033[1;97m"
@@ -23,8 +23,8 @@ echo "\033[1;96m| \| |__|   |   |__| |___  \033[1;91m|  | |    | \_"
 echo
 echo "\033[90m{\033[1;91m=====================================\033[90m}"
 echo "\033[90m Coded\033[1;91m  :\033[1;93mRym"
-echo "\033[90m Youtube\033[1;91m:\033[1;93mMaulana RyM"
-echo "\033[90m Github\033[1;91m :\033[1;96mhttps://github.com/MaulanaRyM"
+echo "\033[90m Youtube\033[1;91m:\033[1;93chanel andre 007"
+echo "\033[90m Github\033[1;91m :\033[1;96https://github.com/Nuyul-Apk1/Nuyul-Apk1/edit/master/bot.sh"
 echo "\033[90m{\033[1;91m=====================================\033[90m}"
 echo
 echo "\033[90m=\033[1;91m--------------------------\033[90m="
